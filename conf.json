@@ -4,7 +4,7 @@
     "addr": "127.0.0.1:3306",
     "database": "spot",
     "user": "root",
-    "password": "",
+    "password": "wsh1989+Village",
     "enableAutoMigrate": false
   },
   "redis": {
@@ -23,5 +23,5 @@
   "restServer": {
     "addr": ":8001"
   },
-  "jwtSecret": "flj23jfoi23apdl3jfslkj23za01mf3"
+  "jwtSecret": "rqgd725f4tp8t4lnbxcterd631ofagc"
 }
